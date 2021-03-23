@@ -6,6 +6,7 @@ Raspberry tarafından geliştirilen ve Pico kartımız ile C/C++ ile yazılım g
 - cmake
 - arm-none-eabi-gcc
 - git 
+
 paketleri bulunmalıdır.
 
 Bu paketlerin kurulumu Debian tabanlı dağıtımlarda:
