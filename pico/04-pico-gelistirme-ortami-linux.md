@@ -24,6 +24,6 @@ Pico SDK dosyalarını isterseniz 'git' kullanarak, isterseniz direkt olarak Git
 
 Pico SDK'yı aynı zamanda [pico-sdk deposuna](https://github.com/raspberrypi/pico-sdk) gidip yeşil 'Code' butonuna tıklayıp 'Download ZIP'i seçerek de indirebilirsiniz. 
 
-# ! Pico SDK'nın çıkartılmış olduğu klasörün yolu ,örnek ~/Belgeler/pico-sdk, geliştirme sırasında gerekli olduğu için bir yere not edilmelidir.
+### ! Pico SDK'nın çıkartılmış olduğu klasörün yolu ,örnek ~/Belgeler/pico-sdk, geliştirme sırasında gerekli olduğu için bir yere not edilmelidir.
 
 ## IDE Kurulumu
