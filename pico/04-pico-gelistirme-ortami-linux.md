@@ -18,12 +18,12 @@ Arch tabanlı dağıtımlarda:
 `sudo pacman -S cmake arm-none-eabi-gcc git`
 
 ## Pico SDK'nın Klonlanması
-Pico SDK dosyalarını isterseniz 'git' kullanarak, isterseniz direkt olarak Github'indirerek temin edebilirsiniz. Bizim tavsiyemiz 'git' kullanarak pico-sdk deposunu sisteminizde kolayca bulabileceğiniz bir konuma klonlamanızdır. 
+Pico SDK dosyalarını isterseniz 'git' kullanarak, isterseniz direkt olarak Github üzerinden indirerek temin edebilirsiniz. Bizim tavsiyemiz 'git' kullanarak pico-sdk deposunu sisteminizde kolayca bulabileceğiniz bir konuma klonlamanızdır. 
 
 `git clone https://github.com/raspberrypi/pico-sdk`
 
 Pico SDK'yı aynı zamanda [pico-sdk deposuna](https://github.com/raspberrypi/pico-sdk) gidip yeşil 'Code' butonuna tıklayıp 'Download ZIP'i seçerek de indirebilirsiniz. 
 
-! Pico SDK'nın çıkartılmış olduğu klasörün yolu ,örnek ~/Belgeler/pico-sdk, geliştirme sırasında gerekli olduğu için bir yere not edilmelidir.
+# ! Pico SDK'nın çıkartılmış olduğu klasörün yolu ,örnek ~/Belgeler/pico-sdk, geliştirme sırasında gerekli olduğu için bir yere not edilmelidir.
 
 ## IDE Kurulumu
