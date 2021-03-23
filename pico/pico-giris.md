@@ -1,7 +1,5 @@
 ### Raspberry Pi Pico
-	Raspberry Pi Pico, Raspberry firması tarafından geliştirilmiş,  yine  firmanın kendi geliştirdiği
-RP2040 çipli bir mikrodenetleyici kartıdır. Bu kart diğer rakiplerine göre daha uygun fiyata daha ve daha
-yüksek işlem kapasitesine sahiptir.
+Raspberry Pi Pico, Raspberry firması tarafından geliştirilmiş,  yine  firmanın kendi geliştirdiği RP2040 çipli bir mikrodenetleyici kartıdır. Bu kart diğer rakiplerine göre daha uygun fiyata daha ve daha yüksek işlem kapasitesine sahiptir.
 
 ## Özellikleri
 - Hızı 133Mhz'e kadar çıkabilen çift çekirdekli Arm Cortex M0+ işlemci
