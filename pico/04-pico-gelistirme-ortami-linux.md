@@ -47,9 +47,23 @@ Micropython, mikrodenetleyici kartlar için tasarlanmış, normal Python'a göre
 
 - Ubuntu:       20.04 ve 20.10 depolarında micropython paketi bulunmaktadır. `sudo apt install micropython` 
 
-- openSUSE      micropython paketi devel:languages:python resmi deposunda bulunmaktadır. [Bu adresten](https://software.opensuse.org//download.html?project=devel%3Alanguages%3Apython&package=micropython) kurulum talimatlarına ulaşılabilir. 
+- openSUSE      micropython paketi [devel:languages:python](https://build.opensuse.org/project/show/devel:languages:python) resmi deposunda bulunmaktadır. [Bu adresten](https://software.opensuse.org//download.html?project=devel%3Alanguages%3Apython&package=micropython) kurulum talimatlarına ulaşılabilir. 
 
 Güncel paket listesi: https://repology.org/project/micropython/versions
 
 Eğer yukarıda belirtilen dağıtımları kullanmıyorsanız ve dağıtımınız size micropython paketini sağlamıyorsa micropython'ın resmi Github adresindeki talimatları izleyerek derleyebilirsiniz.
 https://github.com/micropython/micropython
+
+## Micropython için IDE Kurulumu
+Pico geliştirmesi için önerilen IDE Thonny'dir. Thonny Tkinter arayüz kütüphanesini kullanan, Python'la yazılmış basit bir Python IDE'sidir. Thonny paketi çoğu dağıtımın resmi deposunda bulunmaktadır.
+
+- **Arch Linux**: [AUR](https://aur.archlinux.org/packages/thonny/) `yay -S thonny`
+
+- **Debian**: `sudo apt install thonny`
+
+- **Fedora**: `sudo dnf install thonny`
+
+- **Ubuntu**: `sudo apt install thonny`
+
+- **openSUSE**: thonny paketi [Education](https://build.opensuse.org/project/show/Education) resmi deposunda mevcuttur.
+
