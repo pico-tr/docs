@@ -30,11 +30,11 @@ Pico SDK'yı aynı zamanda [pico-sdk deposuna](https://github.com/raspberrypi/pi
 ## IDE Kurulumu
 Pico SDK ile yapacağınız geliştirmelerde önerilen IDE Visual Studio Code'tur. İsterseniz Microsoft tarafından yayınlanan ve içinde veri toplama(telemetry) bulunan versiyonunu, isterseniz VSCodium versiyonunu kurabilirsiniz. Arch tabanlı dağıtım kullanıcıları dağıtımlarının kendi sağladığı `code` paketini kurabilirler.
 
-[Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
-[VSCodium](https://vscodium.com/)
+- [VSCodium](https://vscodium.com/)
 
-IDE olarak başka yazılımları da tercih edebilirsiniz. Ama yazılımınızı Debug modunda incelemek için Visual Studio Code ve türevi IDE'ler kullanmanız gerekmektedir. 
+IDE olarak başka yazılımları da tercih edebilirsiniz. Ama Pico için geliştirdiğiniz yazılımı Debug modunda incelemek için Visual Studio Code ve türevi IDE'ler kullanmanız gerekmektedir. 
 
 # Micropython için Geliştirme Ortamı
 Micropython, mikrodenetleyici kartlar için tasarlanmış, normal Python'a göre daha hızlı çalışan ve daha az kaynak kullanan bir [Python implementasyonudur](https://wiki.python.org/moin/PythonImplementations). Micropython paketi çeşitli dağıtımlarda paketlenmiş halde bulunmaktadır. Dağıtımınızda Micropython paketi mevcutsa bu paketi kullanmanız tavsiye edilir.
