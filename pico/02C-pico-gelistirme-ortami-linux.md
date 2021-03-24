@@ -66,4 +66,3 @@ Pico geliştirmesi için önerilen IDE Thonny'dir. Thonny Tkinter arayüz kütü
 - **Ubuntu**: `sudo apt install thonny`
 
 - **openSUSE**: thonny paketi [Education](https://build.opensuse.org/project/show/Education) resmi deposunda mevcuttur.
-
