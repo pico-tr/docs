@@ -28,6 +28,7 @@ Raspberry Pi Pico, Raspberry firması tarafından geliştirilmiş, yine firmanı
 ![alt text](https://www.raspberrypi.org/documentation/rp2040/getting-started/static/64b50c4316a7aefef66290dcdecda8be/Pico-R3-SDK11-Pinout.svg)
 
 ### Ekstra İçerikler
+|                                                   İçerikler                                                                            |
 | :------------------------------------------------------------------------------------------------------------------------------------: |
 | [Pin Diyagramı](https://datasheets.raspberrypi.org/pico/Pico-R3-A4-Pinout.pdf)                                                         |
 | [Fritzing Parçaları](https://datasheets.raspberrypi.org/pico/Pico-R3-Fritzing.fzpz)                                                    |
