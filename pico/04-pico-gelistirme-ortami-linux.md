@@ -28,7 +28,7 @@ Pico SDK'yı aynı zamanda [pico-sdk deposuna](https://github.com/raspberrypi/pi
 ### ! Pico SDK'nın çıkartılmış olduğu klasörün yolu ,örnek ~/Belgeler/pico-sdk, geliştirme sırasında gerekli olduğu için bir yere not edilmelidir.
 
 ## IDE Kurulumu
-Pico SDK ile yapacağınız geliştirmelerde önerilen IDE Visual Studio Code'tur. İsterseniz Microsoft tarafından yayınlanan ve içinde veri toplama(telemetry) bulunan versiyonunu, isterseniz VSCodium versiyonunu kurabilirsiniz. Arch tabanlı dağıtım kullanıcıları dağıtımlarının kendi sağladığı `code` paketini kurabilir.
+Pico SDK ile yapacağınız geliştirmelerde önerilen IDE Visual Studio Code'tur. İsterseniz Microsoft tarafından yayınlanan ve içinde veri toplama(telemetry) bulunan versiyonunu, isterseniz VSCodium versiyonunu kurabilirsiniz. Arch tabanlı dağıtım kullanıcıları dağıtımlarının kendi sağladığı `code` paketini kurabilirler.
 
 [Visual Studio Code](https://code.visualstudio.com/)
 
