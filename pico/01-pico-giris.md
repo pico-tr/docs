@@ -1,5 +1,5 @@
-### Raspberry Pi Pico
-Raspberry Pi Pico, Raspberry firması tarafından geliştirilmiş,  yine  firmanın kendi geliştirdiği RP2040 çipli bir mikrodenetleyici kartıdır. Bu kart diğer rakiplerine göre daha uygun fiyata daha ve daha yüksek işlem kapasitesine sahiptir.
+# Raspberry Pi Pico
+Raspberry Pi Pico, Raspberry firması tarafından geliştirilmiş, yine firmanın kendi geliştirdiği RP2040 çipli bir mikrodenetleyici kartıdır. Bu kart diğer rakiplerine göre daha uygun fiyata ve yüksek işlem kapasitesine sahiptir.
 
 ## Özellikleri
 - Hızı 133Mhz'e kadar çıkabilen çift çekirdekli Arm Cortex M0+ işlemci
@@ -27,7 +27,13 @@ Raspberry Pi Pico, Raspberry firması tarafından geliştirilmiş,  yine  firman
 ## Raspberry Pi Pico Pin Şeması
 ![alt text](https://www.raspberrypi.org/documentation/rp2040/getting-started/static/64b50c4316a7aefef66290dcdecda8be/Pico-R3-SDK11-Pinout.svg)
 
+### Ekstra İçerikler
+|                                                   İçerikler                                                                            |
+| :------------------------------------------------------------------------------------------------------------------------------------: |
+| [Pin Diyagramı](https://datasheets.raspberrypi.org/pico/Pico-R3-A4-Pinout.pdf)                                                         |
+| [Fritzing Parçaları](https://datasheets.raspberrypi.org/pico/Pico-R3-Fritzing.fzpz)                                                    |
+| [Tom's Hardware - Raspberry Pi Pico](https://www.tomshardware.com/news/raspberry-pi-pico-tutorials-pinout-everything-you-need-to-know) |
+
 ## Kaynakça
 https://www.raspberrypi.org/documentation/rp2040/getting-started/
-
 
