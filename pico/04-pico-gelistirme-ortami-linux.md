@@ -39,13 +39,15 @@ IDE olarak başka yazılımları da tercih edebilirsiniz. Ama yazılımınızı 
 # Micropython için Geliştirme Ortamı
 Micropython, mikrodenetleyici kartlar için tasarlanmış, normal Python'a göre daha hızlı çalışan ve daha az kaynak kullanan bir [Python implementasyonudur](https://wiki.python.org/moin/PythonImplementations). Micropython paketi çeşitli dağıtımlarda paketlenmiş halde bulunmaktadır. Dağıtımınızda Micropython paketi mevcutsa bu paketi kullanmanız tavsiye edilir.
 
- |  Dağıtımlar  | |                                          Paketler                                                                                      |
- | :----------: | | :------------------------------------------------------------------------------------------------------------------------------------: |
- |  Arch Linux  | | [AUR](https://aur.archlinux.org/packages/micropython/) paketi `yay` veya `paru` AUR yardımcısı ile derlenebilir.                   |
- |    Debian    | | Micropython paketi şuanda sadece Debian Sid(unstable) versiyonunda bulunmaktadır. Yakın bir zamanda yayınlanacak olan Debian 11(bullseye) versiyonunda dahil edilebilir. Debian Sid kullanıcıları `sudo apt install micropython` komutu ile paketi kurabilirler. |
- |    Fedora    | | Micropython paketi resmi depolarda bulunmaktadır. `sudo dnf install micropython` |
- |    Ubuntu    | | 20.04 ve 20.10 depolarında micropython paketi bulunmaktadır. `sudo apt install micropython` |
- |   openSUSE   | | Micropython paketi devel:languages:python resmi deposunda bulunmaktadır. [Bu adresten](https://software.opensuse.org//download.html?project=devel%3Alanguages%3Apython&package=micropython) kurulum talimatlarına ulaşılabilir. |
+- Arch Linux:   [AUR](https://aur.archlinux.org/packages/micropython/) paketi `yay` veya `paru` AUR yardımcısı ile derlenebilir.    
+
+- Debian:       micropython paketi şuanda sadece Debian Sid(unstable) versiyonunda bulunmaktadır. Yakın bir zamanda yayınlanacak olan Debian 11(bullseye) versiyonunda dahil edilebilir. Debian Sid kullanıcıları `sudo apt install micropython` komutu ile paketi kurabilirler. 
+
+- Fedora:       micropython paketi resmi depolarda bulunmaktadır. `sudo dnf install micropython` 
+
+- Ubuntu:       20.04 ve 20.10 depolarında micropython paketi bulunmaktadır. `sudo apt install micropython` 
+
+- openSUSE      micropython paketi devel:languages:python resmi deposunda bulunmaktadır. [Bu adresten](https://software.opensuse.org//download.html?project=devel%3Alanguages%3Apython&package=micropython) kurulum talimatlarına ulaşılabilir. 
 
 Güncel paket listesi: https://repology.org/project/micropython/versions
 
