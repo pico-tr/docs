@@ -10,7 +10,7 @@ Raspberry tarafından geliştirilen ve Pico kartımız ile C/C++ ile yazılım g
 paketleri bulunmalıdır.
 
 Bu paketlerin kurulumu Debian tabanlı dağıtımlarda:
-`sudo apt install cmake arm-none-eabi-gcc git build-essential`
+`sudo apt install cmake gcc-arm-none-eabi git build-essential`
 
 Fedora - RedHat tabanlı dağıtımlarıda:
 `sudo dnf install cmake arm-none-eabi-gcc git`
