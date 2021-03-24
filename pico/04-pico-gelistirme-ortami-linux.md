@@ -1,7 +1,7 @@
-## Raspberry Pi Pico Linux Geliştirme Ortamı
+# Raspberry Pi Pico Linux Geliştirme Ortamı
 Bu dökümanda Linux tabanlı işletim sistemlerinde Pico geliştirme ortamı ile ilgili bilgilere ulaşabilirsiniz.
 
-## Pico C/C++ SDK için Geliştirme Ortamı
+# Pico C/C++ SDK için Geliştirme Ortamı
 Raspberry tarafından geliştirilen ve Pico kartımız ile C/C++ ile yazılım geliştirmemizi sağlayan Pico SDK'yı kullanabilmek için sistemimizde:
 - cmake
 - arm-none-eabi-gcc
@@ -36,4 +36,18 @@ Pico SDK ile yapacağınız geliştirmelerde önerilen IDE Visual Studio Code'tu
 
 IDE olarak başka yazılımları da tercih edebilirsiniz. Ama yazılımınızı Debug modunda incelemek için Visual Studio Code ve türevi IDE'ler kullanmanız gerekmektedir. 
 
+# Micropython için Geliştirme Ortamı
+Micropython, mikrodenetleyici kartlar için tasarlanmış, normal Python'a göre daha hızlı çalışan ve daha az kaynak kullanan bir [Python implementasyonudur](https://wiki.python.org/moin/PythonImplementations). Micropython paketi çeşitli dağıtımlarda paketlenmiş halde bulunmaktadır. Dağıtımınızda Micropython paketi mevcutsa bu paketi kullanmanız tavsiye edilir.
 
+ |                                             Dağıtımlar                                                                                         |
+ | :--------------------------------------------------------------------------------------------------------------------------------------------: | 
+ | Arch Linux: [AUR](https://aur.archlinux.org/packages/micropython/) paketi `yay` veya `paru` AUR yardımcısı ile derlenebilir.                   |
+ | Debian: Micropython paketi şuanda sadece Debian Sid(unstable) versiyonunda bulunmaktadır. Yakın bir zamanda yayınlanacak olan Debian 11(bullseye) versiyonunda dahil edilebilir. Debian Sid kullanıcıları `sudo apt install micropython` komutu ile paketi kurabilirler. |
+ | Fedora: Micropython paketi resmi depolarda bulunmaktadır. `sudo dnf install micropython` |
+ | Ubuntu: 20.04 ve 20.10 depolarında micropython paketi bulunmaktadır. `sudo apt install micropython` |
+ | openSUSE: Micropython paketi devel:languages:python resmi deposunda bulunmaktadır. [Bu adresten](https://software.opensuse.org//download.html?project=devel%3Alanguages%3Apython&package=micropython) kurulum talimatlarına ulaşılabilir. |
+
+Güncel paket listesi: https://repology.org/project/micropython/versions
+
+Eğer yukarıda belirtilen dağıtımları kullanmıyorsanız ve dağıtımınız size micropython paketini sağlamıyorsa micropython'ın resmi Github adresindeki talimatları izleyerek derleyebilirsiniz.
+https://github.com/micropython/micropython
