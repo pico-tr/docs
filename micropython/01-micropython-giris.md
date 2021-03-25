@@ -12,8 +12,8 @@ C99 standartları ile yazılan MicroPython'ın çekirdek deposu ise MIT ile lisa
 - Bellek kullanımı aşıldığında *MemoryError* veya *RuntimeError* hatalarını döndürür.
 - Python kodunu minimal bir biçimde yorumlar. 
 - Hata ayıklamak basittir.
-- _thread sınıfı sayesinde birden fazla iş parçacığıyla çalışmak kolaydır.
--  Thumb and Xtensa mimarileri için *inline assembler* desteği vardır.
+- [_thread](https://docs.micropython.org/en/latest/library/_thread.html) sınıfı sayesinde birden fazla iş parçacığıyla çalışmak kolaydır.
+-  Thumb and Xtensa mimarileri için [*inline assembler*](https://en.wikipedia.org/wiki/Inline_assembler) desteği vardır.
 
 ## MicroPython Portlarına Sahip Bazı Platformlar
 
