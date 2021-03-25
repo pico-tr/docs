@@ -26,7 +26,6 @@ C99 standartları ile yazılan MicroPython'ın çekirdek deposu ise MIT ile lisa
 |    [STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)  |
 |    [Teensy](https://www.pjrc.com/teensy/)    |
 |    [Zephyr](https://zephyrproject.org/)  |
-|    
 
 ### Ekstra İçerikler
 |                                                   İçerikler                                                                            |
@@ -37,4 +36,5 @@ C99 standartları ile yazılan MicroPython'ın çekirdek deposu ise MIT ile lisa
 
 ### Kaynakça
 http://micropython.org/
+
 https://github.com/micropython/micropython/tree/master/ports
